@@ -1,0 +1,9 @@
+Git basic commands
+Creating a repository and cloning to the 
+1.Create an empty repository in git 
+2.Open git bash and type the command -:"git clone 'url of the repository u made' "
+3.Open the currently cloned file and make change and use commands following
+	"git add *"
+	"git commit -m "whatever commit message" "
+4.Finally Push the code the git
+	"git push"
